@@ -10,9 +10,7 @@ System.out.println("ff");
 System.out.println("qqqzzz");
 System.out.println("qqqzzz");
 System.out.println("qqqzzz");
-System.out.println("qqqzzz");
-System.out.println("qqqzzz");
-
+System.out.println("ddjds");
 
 	}
 }
