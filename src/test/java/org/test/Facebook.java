@@ -7,7 +7,7 @@ public class Facebook {
 	@Test
 	private void s1() {
 System.out.println("ff");
-System.out.println("zzzz");
-System.out.println("ccc");
+System.out.println("qqqzzz");
+
 	}
 }
