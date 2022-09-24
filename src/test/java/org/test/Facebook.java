@@ -8,6 +8,7 @@ public class Facebook {
 	private void s1() {
 System.out.println("ff");
 System.out.println("qqzzz");
+System.out.println("hshh");
 
 
 	}
